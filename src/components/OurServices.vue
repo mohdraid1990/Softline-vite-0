@@ -68,7 +68,7 @@ import fitnes from "../assets/FITNES.svg";
 import hands from "../assets/HANDS.svg";
 
 import saves from "../assets/saves.svg";
-import ipateka from "../assets/icon.svg";
+import ipateka from "../assets/Icon.svg";
 
 export default {
   data() {
@@ -352,4 +352,3 @@ export default {
   }
 }
 </style>
-  
