@@ -343,7 +343,7 @@ export default {
     }
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 400px) { 
   .service h1 {
     font-size: 40px;
   }
